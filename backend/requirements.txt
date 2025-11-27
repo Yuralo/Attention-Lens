@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+torch
+numpy
+tiktoken
+scikit-learn
+matplotlib
+seaborn

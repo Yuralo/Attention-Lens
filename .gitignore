@@ -1,6 +1,6 @@
 # Model weights
 one_layer_transformer.pth
-
+exp-1.ipynb
 # Python
 __pycache__/
 *.py[cod]
